@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" width="880" height="440" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" role="img" aria-label="Sonar card: Abhivir Chaudhary. Small tools, long sessions, low noise. Contacts: begone, reperio and halter.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" width="880" height="440" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" role="img" aria-label="Sonar card: Abhivir Chaudhary. Small tools, long sessions, low noise. Contacts: begone, reperio, halter and surfer.">
 <style>.sweep{transform-origin:214px 208px;animation:spin 8s linear infinite}
 .ping{transform-box:fill-box;transform-origin:center;opacity:0;animation:ping 8s linear infinite}
 .blip{animation:fade 8s linear infinite}
@@ -36,28 +36,37 @@
 <circle class="ping" style="animation-delay:-4.71s" cx="228.6" cy="276.5" r="11" fill="none" stroke="#3d6e9e" stroke-width="1.2"/>
 <circle class="blip" style="animation-delay:-4.71s" cx="228.6" cy="276.5" r="3" fill="#3d6e9e"/>
 <text x="241.6" y="280.5" fill="#5a6676" font-size="12" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">halter</text>
+<circle cx="132.1" cy="150.6" r="9" fill="#3d6e9e" opacity=".13"/>
+<circle class="ping" style="animation-delay:-1.67s" cx="132.1" cy="150.6" r="11" fill="none" stroke="#3d6e9e" stroke-width="1.2"/>
+<circle class="blip" style="animation-delay:-1.67s" cx="132.1" cy="150.6" r="3" fill="#3d6e9e"/>
+<text x="145.1" y="154.6" fill="#5a6676" font-size="12" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">surfer</text>
 <text x="430.0" y="84.0" fill="#18212c" font-size="14" font-weight="700" textLength="142.8" lengthAdjust="spacing" xml:space="preserve">ABHIVIR CHAUDHARY</text>
 <text x="430.0" y="108.0" fill="#5a6676" font-size="14" textLength="319.2" lengthAdjust="spacing" xml:space="preserve">small tools. long sessions. low noise.</text>
 <line x1="430" y1="128" x2="832" y2="128" stroke="#d6dce4"/>
 <text x="430.0" y="156.0" fill="#98a3b0" font-size="14" textLength="67.2" lengthAdjust="spacing" xml:space="preserve">contacts</text>
 <text x="530.8" y="156.0" fill="#98a3b0" font-size="14" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">bearing</text>
 <text x="614.8" y="156.0" fill="#98a3b0" font-size="14" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">class</text>
-<circle class="blip" style="animation-delay:-7.29s" cx="434" cy="177" r="3" fill="#3d6e9e"/>
-<text x="446.8" y="182.0" fill="#18212c" font-size="14" font-weight="700" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">begone</text>
-<text x="530.8" y="182.0" fill="#3d6e9e" font-size="14" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">052°</text>
-<text x="614.8" y="182.0" fill="#5a6676" font-size="14" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">rust</text>
-<text x="446.8" y="202.0" fill="#5a6676" font-size="12.5" textLength="255.0" lengthAdjust="spacing" xml:space="preserve">mac disk cleaner for the terminal.</text>
-<circle class="blip" style="animation-delay:-3.07s" cx="434" cy="225" r="3" fill="#3d6e9e"/>
-<text x="446.8" y="230.0" fill="#18212c" font-size="14" font-weight="700" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">reperio</text>
-<text x="530.8" y="230.0" fill="#3d6e9e" font-size="14" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">242°</text>
-<text x="614.8" y="230.0" fill="#5a6676" font-size="14" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">rust</text>
-<text x="446.8" y="250.0" fill="#5a6676" font-size="12.5" textLength="292.5" lengthAdjust="spacing" xml:space="preserve">recovers deleted photos, videos, files.</text>
-<circle class="blip" style="animation-delay:-4.71s" cx="434" cy="273" r="3" fill="#3d6e9e"/>
-<text x="446.8" y="278.0" fill="#18212c" font-size="14" font-weight="700" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">halter</text>
-<text x="530.8" y="278.0" fill="#3d6e9e" font-size="14" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">168°</text>
-<text x="614.8" y="278.0" fill="#5a6676" font-size="14" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">rust</text>
-<text x="446.8" y="298.0" fill="#5a6676" font-size="12.5" textLength="277.5" lengthAdjust="spacing" xml:space="preserve">private chat app for local AI models.</text>
-<line x1="430" y1="322" x2="832" y2="322" stroke="#d6dce4"/>
+<circle class="blip" style="animation-delay:-7.29s" cx="434" cy="175" r="3" fill="#3d6e9e"/>
+<text x="446.8" y="180.0" fill="#18212c" font-size="14" font-weight="700" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">begone</text>
+<text x="530.8" y="180.0" fill="#3d6e9e" font-size="14" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">052°</text>
+<text x="614.8" y="180.0" fill="#5a6676" font-size="14" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">rust</text>
+<text x="446.8" y="200.0" fill="#5a6676" font-size="12.5" textLength="255.0" lengthAdjust="spacing" xml:space="preserve">mac disk cleaner for the terminal.</text>
+<circle class="blip" style="animation-delay:-3.07s" cx="434" cy="213" r="3" fill="#3d6e9e"/>
+<text x="446.8" y="218.0" fill="#18212c" font-size="14" font-weight="700" textLength="58.8" lengthAdjust="spacing" xml:space="preserve">reperio</text>
+<text x="530.8" y="218.0" fill="#3d6e9e" font-size="14" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">242°</text>
+<text x="614.8" y="218.0" fill="#5a6676" font-size="14" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">rust</text>
+<text x="446.8" y="238.0" fill="#5a6676" font-size="12.5" textLength="292.5" lengthAdjust="spacing" xml:space="preserve">recovers deleted photos, videos, files.</text>
+<circle class="blip" style="animation-delay:-4.71s" cx="434" cy="251" r="3" fill="#3d6e9e"/>
+<text x="446.8" y="256.0" fill="#18212c" font-size="14" font-weight="700" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">halter</text>
+<text x="530.8" y="256.0" fill="#3d6e9e" font-size="14" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">168°</text>
+<text x="614.8" y="256.0" fill="#5a6676" font-size="14" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">rust</text>
+<text x="446.8" y="276.0" fill="#5a6676" font-size="12.5" textLength="277.5" lengthAdjust="spacing" xml:space="preserve">private chat app for local AI models.</text>
+<circle class="blip" style="animation-delay:-1.67s" cx="434" cy="289" r="3" fill="#3d6e9e"/>
+<text x="446.8" y="294.0" fill="#18212c" font-size="14" font-weight="700" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">surfer</text>
+<text x="530.8" y="294.0" fill="#3d6e9e" font-size="14" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">305°</text>
+<text x="614.8" y="294.0" fill="#5a6676" font-size="14" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">swift</text>
+<text x="446.8" y="314.0" fill="#5a6676" font-size="12.5" textLength="262.5" lengthAdjust="spacing" xml:space="preserve">a calm browser for iPhone and iPad.</text>
+<line x1="430" y1="326" x2="832" y2="326" stroke="#d6dce4"/>
 <text x="430.0" y="350.0" fill="#98a3b0" font-size="14" textLength="33.6" lengthAdjust="spacing" xml:space="preserve">home</text>
 <text x="480.4" y="350.0" fill="#3d6e9e" font-size="14" textLength="92.4" lengthAdjust="spacing" xml:space="preserve">abhivir.xyz</text>
 <text x="614.8" y="350.0" fill="#98a3b0" font-size="14" textLength="42.0" lengthAdjust="spacing" xml:space="preserve">range</text>
